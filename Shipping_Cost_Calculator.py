@@ -1,7 +1,4 @@
 # Here is a new update by IchrakJh
-# Here is another update by IchrakJh
-
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
